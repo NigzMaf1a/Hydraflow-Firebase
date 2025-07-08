@@ -13,7 +13,7 @@ const themes = [
     { id: 'More1', image: 'url(assets/images/Site10.jpg)', color: 'rgba(120, 130, 170, 0.8)', label: 'Stormy Blue' },
     { id: 'More2', image: 'url(assets/images/Site11.jpg)', color: 'rgba(130, 120, 150, 0.8)', label: 'Steel Blue' }
 ];
-////////////////
+//////////////////
 // Function to change the body theme with smooth transitions
 function changeTheme() {
     const body = document.body;
